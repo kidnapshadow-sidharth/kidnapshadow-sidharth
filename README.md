@@ -25,7 +25,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif"  />
+  <img width="100%" height="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Some more way to Connect with me:</h3>
 
 ###
 
