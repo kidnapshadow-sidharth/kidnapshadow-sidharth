@@ -72,13 +72,12 @@
 <hr>
 
 <br clear="both">
-<h3>Languages and Tools :</h3>
 <img src="https://raw.githubusercontent.com/kidnapshadow-sidharth/kidnapshadow-sidharth/output/snake.svg" alt="Snake animation" />
 <hr>
-###:hammer_and_wrench: Languages and Tools :
+
 
 <br clear="both">
-
+<h3>Languages and Tools :</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="19" />
