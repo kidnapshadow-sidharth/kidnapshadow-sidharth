@@ -16,7 +16,12 @@
 </div>
 
 
+<br clear="both">
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kidnapshadow-sidharth/count.svg?"  />
+</div>
+<hr>
 <br clear="both">
 
 <div align="center">
@@ -25,11 +30,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kidnapshadow-sidharth/count.svg?"  />
-</div>
 
 ###
 <h1 align="center">Hi 👋, I'm Sidharth Mittal</h1>
@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<h3 align="left"># Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
@@ -71,10 +71,8 @@
 </div>
 <hr>
 
-<h1>Languages and Tools :</h1>
-
 <br clear="both">
-
+<h3>Languages and Tools :</h3>
 <img src="https://raw.githubusercontent.com/kidnapshadow-sidharth/kidnapshadow-sidharth/output/snake.svg" alt="Snake animation" />
 <hr>
 ###:hammer_and_wrench: Languages and Tools :
@@ -127,7 +125,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="wordpress logo"  />
 </div>
 <hr>
-### :fire: My Stats :
+:fire: My Stats :
 <br clear="both">
 
 <div align="center">
