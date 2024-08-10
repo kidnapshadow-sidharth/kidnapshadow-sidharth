@@ -38,7 +38,7 @@
 ###
 
 <br clear="both">
-### :woman_technologist: About Me :
+
 - 🌱 I’m currently learning **OSCP Exam**
 
 - 👯 I’m looking to collaborate on **Ethical hacking, Bug bounty program**
@@ -58,12 +58,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sidharth-mittal-9608b81b8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/kidnapshadow_kd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="35" alt="twitter logo"  />
-  </a>
+  
   <a href="https://www.youtube.com/kidnapshadow" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="35" alt="youtube logo"  />
   </a>
@@ -74,14 +69,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="64" height="35" alt="medium logo"  />
   </a>
 </div>
+<hr>
 
-###
+<h1>Languages and Tools :</h1>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kidnapshadow-sidharth/kidnapshadow-sidharth/output/snake.svg" alt="Snake animation" />
-
-###
+<hr>
+###:hammer_and_wrench: Languages and Tools :
 
 <br clear="both">
 
@@ -130,9 +126,8 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="wordpress logo"  />
 </div>
-
-###
-
+<hr>
+### :fire: My Stats :
 <br clear="both">
 
 <div align="center">
