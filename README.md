@@ -32,7 +32,7 @@
 
 
 ###
-<h1 align="center">Hi 👋, I'm Sidharth Mittal<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h1 align="center">Hi 👋, I'm Sidharth Mittal  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 <h3 align="center">A Passionate Cybersecurity Enthusiast</h3>
 
 ###
